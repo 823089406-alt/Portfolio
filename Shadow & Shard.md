@@ -1,5 +1,3 @@
-# Final Project Portfolio
-
 ## Project Details and Links
 
 - **Name**：Yu Chen
@@ -167,7 +165,7 @@ In Level 2: The Heart of Water Lilies, we aimed to replace traditional keyboard 
 
 **2. Wiring Diagram**
 
-<img width="1682" height="1188" alt="image" src="https://github.com/user-attachments/assets/6f16f64b-422b-43b7-b27e-67798a4fe2f1" />
+<img width="1870" height="778" alt="image" src="https://github.com/user-attachments/assets/930ef81c-e3db-44df-b478-21653a584f5b" />
 
 Each touch point corresponds to a movement direction. The Arduino reads input from MPR121 and sends a character command via serial. A Python script bridges this signal via **UDP** to **Unity**, which handles real-time character control.
 
@@ -192,6 +190,8 @@ Each touch point corresponds to a movement direction. The Arduino reads input fr
 ### Unity Technical Architecture (Level 2｜Stairs of Victory)
 Unity Animation | All Unity Animation can be found here: 
 
+<img width="1588" height="1046" alt="image" src="https://github.com/user-attachments/assets/10157f60-cc3b-4dd3-b779-9459d5fec883" />
+
 https://git.arts.ac.uk/user-attachments/assets/f2fe705f-1725-43aa-a777-910c22138335
 
 Unity Level2 Secnes | Unity Level2 Secnes can be found here: https://git.arts.ac.uk/24010676/Responsive-Environments-Blog-2024/tree/main/Scenes
@@ -201,7 +201,7 @@ Unity Level2 Secnes | Unity Level2 Scripts can be found here:https://git.arts.ac
 
 In this level, Unity handles the full pipeline of visual rendering, gameplay mechanics, and interaction control, while receiving real-time signals from Arduino to support a timed gameplay experience.
 
-<img width="1410" alt="image" src="https://git.arts.ac.uk/user-attachments/assets/25f5ff41-2e1d-474b-9e40-452f050d153b" />
+<img width="2820" height="1766" alt="image" src="https://github.com/user-attachments/assets/94a29ca3-a1c4-4ea3-a42d-9d5d5266654d" />
 
 
 
@@ -225,12 +225,13 @@ To create a museum game space that balances artistic richness and immersion, we 
 | **Photoshop / Illustrator** | Post-processing, icon design, visual refinement | *Image post-processing, UI and icon design*                 |
 
 ### Background Generation
-![bg](https://git.arts.ac.uk/user-attachments/assets/bb146e71-52e2-4838-b96e-6bc2c405b2ca)
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/b2e1f253-1f2e-4d06-9622-c70194702c19" />
 
 
 
 ### 3D Generation
-![1750377475363](https://git.arts.ac.uk/user-attachments/assets/2545d5ea-2556-4c91-a0b8-241cbe9cf721)
+<img width="1114" height="1148" alt="image" src="https://github.com/user-attachments/assets/9cd3c13b-bac9-4a53-95c5-91f122da2b2c" />
+
 
 
 ---
@@ -241,18 +242,21 @@ To allow the audience to physically “touch art,” we used digital fabrication
 ### 3D Modeling & Printing
 We used Tripo AI to generate 3D models based on reference images of historical artifacts.
 The models—such as reliefs, water lilies, and sculptures—were then produced using 3D printers.
-<img width="943" alt="image" src="https://git.arts.ac.uk/23009836/Making-3-Final-Project/assets/1322/67051b9b-e796-46b2-9ea6-c31e0a22d7a9">
+<img width="1886" height="604" alt="image" src="https://github.com/user-attachments/assets/30bb894c-745f-47ec-a9ab-37761d4dd3b0" />
+
 
 ### Laser-Cut Bases for Hardware
 Acrylic or wooden bases were fabricated using a laser cutter.
 The bases were designed with wire channels, mounting holes for Arduino boards, and cutouts for power access.
 All circuit boards, sensor modules, and USB cables were embedded beneath the base to ensure a clean, stable, and exhibition-ready appearance.
-<img width="1041" alt="image" src="https://git.arts.ac.uk/23009836/Making-3-Final-Project/assets/1322/58205b41-bea8-4a89-8920-b6f69acd97f1">
+<img width="2082" height="514" alt="image" src="https://github.com/user-attachments/assets/78350704-1f79-49fa-8d02-1fa388fe532e" />
+
 
 ### Arduino Assembly
 We implemented a capacitive touch system using Arduino and the MPR121 sensor.
 All wires were routed from the 3D-printed replicas into the interior of the base, where the control modules were securely housed.
-<img width="919" alt="image" src="https://git.arts.ac.uk/23009836/Making-3-Final-Project/assets/1322/93398a15-98c5-4d2c-b904-30f13d1958d5">
+<img width="1838" height="554" alt="image" src="https://github.com/user-attachments/assets/f11bec7e-d654-481f-88e3-71ea3f9025d4" />
+
 
 
 ---
@@ -296,10 +300,11 @@ Edited slides for presentation on final presentation day.
 
 ---
 ## Final Project Output
-<img width="1285" alt="image" src="https://git.arts.ac.uk/23009836/Making-3-Final-Project/assets/1322/eb723cee-5298-4486-97f7-00259dff417b">
-<img width="969" alt="image" src="https://git.arts.ac.uk/23009836/Making-3-Final-Project/assets/1322/720e1f00-e14c-4127-a214-30fe0a4452ac">
-<img width="1127" alt="image" src="https://git.arts.ac.uk/23009836/Making-3-Final-Project/assets/1322/9acd440c-1b8b-4053-8e59-eaf58b9eafad">
-<img width="1080" alt="image" src="https://git.arts.ac.uk/23009836/Making-3-Final-Project/assets/1322/80f6b683-8016-4853-b220-669ebe6cd163">
+<img width="2570" height="1748" alt="image" src="https://github.com/user-attachments/assets/0a7b53b7-d039-4067-a9dd-fd4ad6653f39" />
+<img width="1938" height="490" alt="image" src="https://github.com/user-attachments/assets/eb3e9c3a-4632-432c-b613-eceb3b52bc84" />
+<img width="2254" height="526" alt="image" src="https://github.com/user-attachments/assets/4365a5e4-b01c-434d-9583-b1986e1690b8" />
+<img width="2160" height="1188" alt="image" src="https://github.com/user-attachments/assets/248fb027-8219-44a7-8ccd-f6f495ee1d04" />
+
 
 ---
 
