@@ -316,5 +316,6 @@ At the same time, some reviewers suggested explaining the control system more cl
 
 Moving forward, we plan to improve how we present the project, refine the interaction flow, and strengthen the narrative to create a more clear and immersive experience.
 
-![Uploading image.png…]()
+<img width="1682" height="1188" alt="image" src="https://github.com/user-attachments/assets/7624c753-b4c9-469f-842a-255e974bd6d2" />
+
 
