@@ -145,14 +145,15 @@ In *Shadow and Shard*, Arduino serves not only as the physical trigger to launch
 **Hardware Components:**
 - (MPR121)touch sensor + Arduino Uno
 - Each touchpoint is linked to a 3D-printed replica of an artifact
-<img width="2268" height="922" alt="image" src="https://github.com/user-attachments/assets/782ed39e-d3fd-494c-9d07-5d5a52e470e2" />
+<img width="1544" height="824" alt="image" src="https://github.com/user-attachments/assets/dd74bddc-b29f-47e9-b5c6-f7423833c97f" />
+
 
 
 **Function Description:**
 - Each artwork is assigned a unique ID;
 - When touched, the Arduino detects the ID and sends it to Unity via serial communication;
 - Unity receives the ID and loads the corresponding game level.
-<img width="1870" height="778" alt="image" src="https://github.com/user-attachments/assets/abd29d8f-c6be-43ef-9101-ea66e18819b5" />
+<img width="2268" height="922" alt="image" src="https://github.com/user-attachments/assets/782ed39e-d3fd-494c-9d07-5d5a52e470e2" />
 
 **Module 2: Arduino Controller System (MPR121-Based Directional Input)**
 
