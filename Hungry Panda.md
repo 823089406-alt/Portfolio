@@ -92,12 +92,14 @@ The core gameplay of our game involves players using an Arduino controller to ev
 >
 >**Player Life** is responsible for implementing the player's death mechanism. When the player collides with an object tagged as "Trap" (such as a trap), the character will trigger the death animation and play the death sound effect.
 >
-><img width="1634" alt="image" src="https://git.arts.ac.uk/23009836/Responsive-Environments-Blog-2024/assets/1322/b863444f-5de5-45db-b467-8ed28d605a00">
+<img width="3268" height="1568" alt="image" src="https://github.com/user-attachments/assets/a0dd4c62-f782-4a19-a4fc-37d24c7befde" />
+
 
 >
 >**Player Movement** is primarily responsible for handling the player's movement and jumping controls, supporting both keyboard input and UI button (touchscreen) controls. In this script, we have implemented:
 >
-><img width="1566" alt="image" src="https://git.arts.ac.uk/23009836/Responsive-Environments-Blog-2024/assets/1322/543de4f6-2f35-4387-a026-9ea66e1c42c0">
+<img width="3132" height="1138" alt="image" src="https://github.com/user-attachments/assets/0e22e42e-9f41-4030-9c51-98150aaf83fa" />
+
 
 ## Video Demonstration
 https://youtu.be/dGJplNLhig8
